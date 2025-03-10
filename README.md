@@ -4,4 +4,6 @@ Bu proje, bir API'den veri alarak dinamik bir menü oluşturmak için geliştiri
 
 
 <h2>Ekran Görüntüsü</h2>
+
+
 ![](kayıt.gif)
